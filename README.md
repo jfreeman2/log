@@ -1,0 +1,2 @@
+# log
+standard logging function
